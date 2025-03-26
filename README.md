@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+eu+sou+o+Vitor+Matsunaga!;" />
@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 Desenvolvedor Fullstack**
+ 🔭 Desenvolvedor Fullstack
  
- 🌱 3º Semestre em Ciência da Computação**
+ 🌱 3º Semestre em Ciência da Computação
 
 
  </div>
