@@ -44,9 +44,14 @@
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
-  [![Vitor GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vkmatsu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/vkmatsu/github-readme-stats#gh-dark-mode-only)
-[![Vitor GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=vkmatsu&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/vkmatsu/github-readme-stats#gh-light-mode-only)
-  
+        <a href="https://github.com/vkmatsu/github-readme-stats">
+        <picture>
+            <!-- Tema escuro -->
+            <source srcset="https://github-readme-stats.vercel.app/api?username=vkmatsu&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)">
+            <!-- Tema claro -->
+            <img src="https://github-readme-stats.vercel.app/api?username=vkmatsu&show_icons=true&theme=default" alt="Vitor GitHub Stats">
+        </picture>
+    </a>
   <br/><br/><br/>
 </div>
 
