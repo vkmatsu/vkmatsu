@@ -44,7 +44,8 @@
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vkmatsu/vkmatsu/output/github-contribution-grid-snake.svg" />
+  [![Vitor GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vkmatsu&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/vkmatsu/github-readme-stats#gh-dark-mode-only)
+[![Vitor GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=vkmatsu&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/vkmatsu/github-readme-stats#gh-light-mode-only)
   
   <br/><br/><br/>
 </div>
