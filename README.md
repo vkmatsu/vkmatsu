@@ -48,8 +48,6 @@
         <picture>
             <!-- Tema escuro -->
             <source srcset="https://github-readme-stats.vercel.app/api?username=vkmatsu&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)">
-            <!-- Tema claro -->
-            <img src="https://github-readme-stats.vercel.app/api?username=vkmatsu&show_icons=true&theme=default" alt="Vitor GitHub Stats">
         </picture>
     </a>
   <br/><br/><br/>
